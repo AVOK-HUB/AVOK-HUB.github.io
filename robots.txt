@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aarokhub.github.io/sitemap.xml
+Sitemap: https://avokhub.github.io/sitemap.xml
